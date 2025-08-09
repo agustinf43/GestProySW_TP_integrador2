@@ -1,0 +1,9 @@
+Ejercicios
+
+1. Declarar e iniciar 3 variables enteras y comparar  cuál de las 3 es la mayor.
+
+2. A partir del ingreso  el un importe de salario, indicar a cuentos salario mínimo vital
+ y móvil  equivalen  sabiendo que el valor de este en marzo de 2024 es de  $202.800. Responder: El salario ingresado es superior  al 
+el valor de 1  Canasta Básica tipo 2  que según INDEC es de $773.385,10 
+
+3. Con switch. Mostrar el nombre del mes a partir de el ingreso de un valor valido.
