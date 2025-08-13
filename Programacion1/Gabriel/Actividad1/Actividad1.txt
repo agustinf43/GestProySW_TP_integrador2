@@ -1,0 +1,18 @@
+Resolve este ejercio de programacion 1 Enunciado 1:
+Elaborar un algoritmo que permita calcular para un importe en pesos, 
+a cuantos dólares equivale conociendo que la cotización del hoy del dólar  es $467.
+
+Enunciado 2:
+El Consejo del Salario Mínimo, Vital y 
+Móvil anunciará cuál será la actualización en el piso salarial para los trabajadores formales. 
+Actualmente el salario mínimo tiene un valor de  $84.512  . Según dirigentes gremiales está retrasado, 
+por lo que “es necesario actualizarlo en no menos de un 40%”. Por otro lado el Gobierno nacional mantiene 
+su proyección de inflación en torno del 20% . Elaborar un algoritmo que permita calcular cuánto será el 
+salario mínimo si se acuerda el porcentaje sugerido por los gremios y cuanto si se acepta la proyección 
+del gobierno. Mostrar la diferencia entre ellos.
+
+
+Enunciado 3:
+Un joven desea cambiar su smartphone. Averiguó que en una tienda de electrodomésticos local tienen una promoción esta semana y están brindando un descuento del 15% para los artículos de tecnología y hasta 12 cuotas .
+Si paga en efectivo tiene el descuento del 15%, caso contrario puede hacer en 12 cuotas con un recargo del 10%.
+Elaborar una algoritmo en lenguaje natural que permita calcular y mostrar para el precio de lista del equipo, cuánto deberá abonar luego del descuento y cuánto será el importe de cada cuota
