@@ -1,0 +1,22 @@
+                EXPLICACION DE METODO VERSION 2
+
+// Ejercicio n1: 
+Comparar 3 variables y mostrar cual es mayor
+
+"Esta version es mucho mas directa y corta: elimina la opcion de escenario multiple (if) y lo reemplaza por
+ el metodo Math.max para calcular el mayor de 3 numeros."
+
+
+
+// Ejercicio n2:
+Ingresar monto de salario, compararlo con Salario Minimo Vital Movil ($202.800), y mostrar un mensaje que 
+muestre si es menor/mayor y mostrar a cuantos equivale smvm equivale el ingresado
+
+"Esta versión se diferencia en que luego de calcular cuántos SMVM equivale el salario, este muestra el mensaje
+correspondiente usando switch."
+
+
+// Ejercicio n3: 
+Mostrar nombre de un mes a partir de el ingreso de un nº que equivalga a dicho mes
+
+"Pasa lo mismo que con el ejercicio anterior: se cambia el uso del SWITCH  por el If-ELSE para mostrar los meses"

@@ -16,3 +16,4 @@ Enunciado 3:
 Un joven desea cambiar su smartphone. Averiguó que en una tienda de electrodomésticos local tienen una promoción esta semana y están brindando un descuento del 15% para los artículos de tecnología y hasta 12 cuotas .
 Si paga en efectivo tiene el descuento del 15%, caso contrario puede hacer en 12 cuotas con un recargo del 10%.
 Elaborar una algoritmo en lenguaje natural que permita calcular y mostrar para el precio de lista del equipo, cuánto deberá abonar luego del descuento y cuánto será el importe de cada cuota
+
