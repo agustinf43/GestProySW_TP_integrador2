@@ -1,0 +1,18 @@
+Soy Winkler Guido,estudiante de tecnicatura superior en desarrollo de software.
+
+Enunciados de atividad1 y actividad1_V2:
+1. Realizar un programa que genere un número  aleatorio, entre 1 y 10, y le pida al usuario que adivine el número, sin límite de intentos. 
+2. Realizar un programa que indique usuario y contraseña con un máximo de 3 intentos. Si  supera la cantidad de intentos con datos inválidos: mostrar un mensaje indicando que se ha bloqueado el usuario.
+
+ACTIVIDAD 1:
+En la PRIMERA VERSION de la actividad 1 lo que se hizo fue primero declarar e inicializar la variable numIngresado en 0,después se instanció la clase Random que fue llamada aleatorio,se creo la variable de tipo entera numAleatorio para poder generar aleatoriamente un número del 1 al 10 y se agrego un Scanner para poder leer el número que ingresa el usuario.
+Luego se crea un WHILE con la condición de que si el numIngresado por el usuario es diferente al numAleatorio generado aleatoriamente,repita las instrucciones.Dentro lo que se hizo fue agregar un mensaje que decia:"Adivine número del 1 al 10" y debajo la variable llamada numIngresado para que el usuario pueda ingresar el número a adivinar y despues un IF para comparar nuevamente si numIngresado y numAleatorio son diferentes,de ser cierto lanzará un mensaje diciendo: "incorrecto,intente nuevamente",de ser falso lanzará otro mensaje: "¡Has adivinado el número!" y finalizará el programa.
+En la SEGUNDA VERSION lo que cambia es que se utilizó un Logger para mostrar el mensaje cuando el usuario acierta el número y la forma de generar un número aleatorio.
+
+ACTIVIDAD 2:
+En la PRIMERA VERSION de la actividad 2 lo que se hizo fue declarar e inicializar las variables de tipo String:usuario,contraseña y la variable de tipo Int:intentos:
+usuario="usuario";
+contraseña="contraseña";
+intentos=3;
+Luego se agrego un FOR que termina cuando el usuario supera la cantidad maxima de intentos que en este caso seria 3,dentro del mismo se agregan los mensajes que piden usuario,contraseña y las variables para ingresarlas.Siguiendo,está un IF que compara si el usuario y contraseña ingresados son iguales a los que estan inicializados,de ser cierto muestra un mensaje de bienvenida.Después se encuentra un IF para comparar si el usuario es diferente al guardado y otro IF para hacer lo mismo con contraseña,en caso que cualquiera de los dos sea cierto mostrará un mensaje de error que indicará cual de los dos es el incorrecto.Por ultimo,se encuentra otro IF que compara si la cantidad de intentos es igual a 0,muestra un mensaje de usuario bloqueado.
+En la SEGUNDA VERSION los cambios realizados son que se inicializó la variable intentos en 0 y en vez de un FOR se utilizó un DO WHILE,dentro se agregaron los mensajes que piden usuario-contraseña,las variables para ingresarlas y se agrego un contador de intentos.Despues se agrego un IF que compara si usuario-contraseña ingresados son diferentes a los inicializados primeramente en el programa y ademas si el número de intentos es diferente a 3,si todo esto es cierto mostrará un mensaje diciendo "usuario o contraseña incorrectos,intente nuevamente".Debajo se añadió un ELSE IF con la condición de que si el número de intentos es igual a 3,se mostrará un mensaje log.warning avisando que se realizó muchos intentos y el usuario será bloqueado.Por ultimo,si todo lo anterior no es cierto,dentro de un ELSE hay un mensaje de acceso concedido que se visualizará.

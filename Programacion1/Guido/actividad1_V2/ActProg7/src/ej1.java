@@ -22,5 +22,6 @@ public class ej1 {
                 Log.info("Número acertado");
             }
         }
-      }
+
+        }
     }
