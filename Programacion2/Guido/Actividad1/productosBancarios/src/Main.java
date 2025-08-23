@@ -26,5 +26,5 @@ public class Main {
     }catch (claveSeguridadInvalidaException tcne){
       System.out.println("Error al crear la tarjeta:"+tcne.getMessage());
     }
-    }
   }
+}
