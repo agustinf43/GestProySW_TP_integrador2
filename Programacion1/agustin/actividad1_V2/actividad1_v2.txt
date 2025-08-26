@@ -1,0 +1,11 @@
+Diferencias con el codigo anterior 
+
+Uso de while(true) en lugar de do-while con condición → más simple de leer.
+
+Comparación de la respuesta con equalsIgnoreCase("NO") → evita problemas con mayúsculas/minúsculas.
+
+Encapsulación de la generación del número aleatorio en un método separado.
+
+Mensajes más descriptivos para el usuario.
+
+Se cierra el Scanner correctamente al final.

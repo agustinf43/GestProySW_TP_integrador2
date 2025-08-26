@@ -1,0 +1,1 @@
+En esta actividad aprendimos a conectar nuestro proyecto java a una base de datos SQL

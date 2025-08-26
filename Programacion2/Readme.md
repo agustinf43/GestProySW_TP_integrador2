@@ -1,3 +1,1 @@
-soy Ivan Duarte tengo 28 años, me desempeño como desarollador de software.
-En esta instancia, eh aprendido a  realizar operaciones de entrada y salida (I/O), como leer y escribir archivos, trabajar con flujos de datos (streams), y manejar dispositivos de entrada/salida (como teclado, archivos, red, etc.).
-Tambien eh aprendido a utilizar la clase Properties se usa para almacenar pares clave-valor, especialmente útil para archivos de configuración con extensión .properties.
+
