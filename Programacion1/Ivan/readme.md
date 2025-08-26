@@ -1,0 +1,2 @@
+Soy Ivan Duarte tengo 28 años, me desempeño como desarrollador de software en este proyecto.
+En esta instancia de programacion 1, he aprendido los conceptos basicos de java -como lenguaje de programacion  orientada a objectos- atravez de la realizacion de actividades que combinan ejercicios de condicionales simples (if), dobles(if_else), bucles (wlile), funciones, arrays,etc.

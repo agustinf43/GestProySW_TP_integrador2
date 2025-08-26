@@ -1,5 +1,0 @@
-Laboratorio: 
-1. Declarar e iniciar 3 variables enteras y comparar cuál  de las 3 es la mayor.
-2. Como en el laboratorio anterior, declarar 2 variables que permitan realizar operaciones básicas
-matemáticas y mostrar el resultado en consola. Esta vez, el usuario debe poder elegir qué operación realizar.
-3. Hacer el punto anterior con switch. Se deberá ingresar el carácter “s” para sumar, “r” para restar, “m” para multiplicar y “d” para dividir.

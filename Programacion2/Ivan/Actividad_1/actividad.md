@@ -1,0 +1,1 @@
+En esta clase, se practico java_io la cual abarca, el paquete IO input (Entrada) y Output (Salida) permite, atraves de Streams (flujos) realizar la comunicacion con la consola, archivos y datos.
