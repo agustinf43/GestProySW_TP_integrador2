@@ -9,7 +9,9 @@ El objetivo es documentar, versionar y mostrar la evolución de nuestros aprendi
 ## 📑 Índice
 
 - [📂 Estructura del repositorio](#-estructura-del-repositorio)  
-- [👥 Integrantes](#-integrantes)  
+- [👥 Integrantes](#-integrantes)
+- [🏷️ Tags](#-tags)  
+- [📃 Informes](#-informes)
 - [🛠️ Flujo de trabajo con Git/GitHub](#️-flujo-de-trabajo-con-gitgithub)  
 - [📌 Convenciones](#-convenciones)  
 - [📖 Licencia](#-licencia)  
@@ -18,28 +20,7 @@ El objetivo es documentar, versionar y mostrar la evolución de nuestros aprendi
 
 ## 📂 Estructura del repositorio
 
-📁 Programacion/
-├── 📁 Prog1/ → Ejercicios y actividades de Programación I
-│ ├── 📁 agustin/
-│ ├── 📁 elian/
-│ ├── 📁 gabriel/
-│ ├── 📁 guido/
-│ ├── 📁 ivan/
-│ └── 📁 ramiro/
-│
-├── 📁 Prog2/ → Ejercicios y actividades de Programación II
-│ ├── 📁 agustin/
-│ ├── 📁 elian/
-│ ├── 📁 gabriel/
-│ ├── 📁 guido/
-│ ├── 📁 ivan/
-│ └── 📁 ramiro/
-│
-├── 📁 recursos-ia/ → Evidencias y aportes generados con IA
-│
-├── README.md → Documentación general del repositorio
-├── CHANGELOG.md → Registro de cambios y versiones
-
+![Estructura General Repositorio](/Recursos-ia/Estructura.png)
 
 ---
 
@@ -54,12 +35,32 @@ El objetivo es documentar, versionar y mostrar la evolución de nuestros aprendi
 
 ---
 
+## 🏷️ Tags
+
+- [V0.0](https://github.com/agustinf43/GestProySW_TP_integrador2/releases/tag/V0.0) : Vacío
+- [V0.1](https://github.com/agustinf43/GestProySW_TP_integrador2/releases/tag/V0.1) : Prog1 Solución inicial
+- [V0.2](https://github.com/agustinf43/GestProySW_TP_integrador2/releases/tag/V0.2) : Prog1 Solución alternativa
+- [V1.0](https://github.com/agustinf43/GestProySW_TP_integrador2/releases/tag/V1.0) : Prog1 Completo, changelog actualizado
+- [V1.9](https://github.com/agustinf43/GestProySW_TP_integrador2/releases/tag/V1.9) : Prog2 Completo
+- [V2.0](https://github.com/agustinf43/GestProySW_TP_integrador2/releases/tag/V2.0) : Trabajo completo
+
+
+---
+## 📃 Informes
+[Agustin](https://docs.google.com/document/d/1C7Oc-3egp1X0lOFtkFnsw2iFBsdzldcx0pJIE1bJxbw/edit?usp=sharing)
+[Elian](https://docs.google.com/document/d/1XmZ45hLyKV5ayYBvOhi8eLwxrX6QK_mlW4aBfEptmvM/edit?usp=sharing)
+[Guido](https://docs.google.com/document/d/1uGWpx6xJT_HHH0yFgK0EWVbV-BU0XyxEeThYOxQ5Q6s/edit?usp=drivesdk )
+[Gabriel](https://docs.google.com/document/d/181upfZ0gWqjHzUOoogcMMhcDE-f27HmYj33gSVVIvtQ/edit?usp=sharing)
+[Ivan](https://docs.google.com/document/d/1yiHmTIfQq7e52PQwBp7bakF7EIKApMyxZ2CWw8VfA3s/edit?usp=sharing)
+[Ramiro](https://docs.google.com/document/d/1TNrNgu66ZxirS61YUV75yL8gB0Ms1ZDXpSZTVbfy8E8/edit?usp=sharing)
+---
+
 ## 🛠️ Flujo de trabajo con Git/GitHub
 
 - Cada alumno trabaja en su **rama personal** (ejemplo: `prog1-agustin`).  
 - Se realizan **commits claros** siguiendo [Conventional Commits](https://www.conventionalcommits.org/).  
 - Los cambios se integran mediante **Pull Requests** hacia `main`.  
-- El progreso se versiona con **tags de versión** (`v1.0.0`, `v1.1.0`, …).  
+- El progreso se versiona con **tags de versión** (`V0.0`,`V0.1`...).  
 - Los cambios relevantes se documentan en `CHANGELOG.md`.  
 
 ---
@@ -67,7 +68,7 @@ El objetivo es documentar, versionar y mostrar la evolución de nuestros aprendi
 ## 🤖 Uso de herramientas de IA
 
 La inteligencia artificial se utiliza para:  
-- Generar documentación y comentarios en el código.   
+- Generar documentación. 
 Las evidencias se registran en la carpeta `recursos-ia/`.  
 
 ---
