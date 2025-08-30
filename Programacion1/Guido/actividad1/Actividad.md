@@ -1,2 +1,0 @@
-1. Realizar un programa que genere un número  aleatorio, entre 1 y 10, y le pida al usuario que adivine el número, sin límite de intentos. 
-2. Realizar un programa que indique usuario y contraseña con un máximo de 3 intentos. Si  supera la cantidad de intentos con datos inválidos: mostrar un mensaje indicando que se ha bloqueado el usuario.

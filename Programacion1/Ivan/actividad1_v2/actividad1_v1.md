@@ -1,1 +1,0 @@
- Hacer el punto anterior con switch. Se deberá ingresar el carácter “s” para sumar, “r” para restar, “m” para multiplicar y “d” para dividir.
