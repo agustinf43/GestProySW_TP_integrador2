@@ -20,7 +20,7 @@ El objetivo es documentar, versionar y mostrar la evolución de nuestros aprendi
 
 ## 📂 Estructura del repositorio
 
-![Estructura General Repositorio](/Recursos-ia/Estructura.png)
+![Estructura General Repositorio](/Recursos-ia/Estructur.png)
 
 ---
 
