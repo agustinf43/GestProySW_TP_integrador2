@@ -1,3 +1,4 @@
+
 COLLECTIONS
 
 - Java permite, a través de los arreglos, almacenar muchos elementos bajo un mismo  identiﬁcador. El problema es que se debe conocer  de antemano el tamaño que tendrá el arreglo y  este no varía. No es posible añadir elementos  nuevos ni eliminarlos.
