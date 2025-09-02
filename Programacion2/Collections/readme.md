@@ -1,10 +1,6 @@
-Ejercicios de **listas, conjuntos, mapas y otras colecciones**.  
 
-- Cada archivo contiene un ejemplo práctico de cómo usar una colección específica.  
-- Los ejercicios permiten:
-  - Crear y manipular **ArrayList, LinkedList y otras listas**.
-  - Trabajar con **HashSet y TreeSet** para manejar conjuntos sin duplicados.
-  - Utilizar **HashMap y TreeMap** para asociar claves y valores.
-  - Recorrer colecciones y aplicar operaciones básicas (agregar, eliminar, buscar, ordenar, etc.).
+COLLECTIONS
 
-Estos ejercicios sirven para **practicar y reforzar el uso de colecciones en Java**, entendiendo cómo almacenar, acceder y manipular datos de manera eficiente.
+- Java permite, a través de los arreglos, almacenar muchos elementos bajo un mismo  identiﬁcador. El problema es que se debe conocer  de antemano el tamaño que tendrá el arreglo y  este no varía. No es posible añadir elementos  nuevos ni eliminarlos.
+Pero, además de los arreglos convencionales que ya  conocemos, Java proporciona un conjunto de  interfaces y clases (Collections Framework) para  agrupar elementos de forma dinámica.Las colecciones son Interfaces y Clases que  tienen parámetros (Genéricas) por lo que  debemos indicarles el tipo de Objeto a  almacenar.
+Se pueden agregar más Objetos sin indicar un  tamaño único o inicial; permitiendo reducir el  esfuerzo de programación al tiempo que  aumenta el rendimiento.
