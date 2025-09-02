@@ -76,7 +76,7 @@ Las evidencias se registran en la carpeta `recursos-ia/`.
 ## 📌 Convenciones
 
 - **Mensajes de commit** → deben seguir la convención *Conventional Commits*.  
-- **Nombres de ramas** → `prog1-nombre`, `prog2-nombre`.    
+- **Nombres de ramas** → `ft_prog1(tema)_Alumno`, `ft_prog2(tema)_Alumno`.    
 - **Documentación** → cada carpeta personal incluye su propio `README.md`.  
 
 ---
