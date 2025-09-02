@@ -37,6 +37,18 @@
 - **README personal** para cada estudiante, incluyendo rol en el equipo y aprendizajes en Programación II.  
 - **README general del repositorio**, con índice, estructura, roles, flujo de trabajo y enlaces a perfiles de GitHub.  
 
+========
+
+## [v2.1.0] - 2025-08-20
+### Cambiado
+- Se reorganizó la estructura del repositorio: ahora las carpetas están ordenadas por **tema** en lugar de por **alumno**, siguiendo la sugerencia docente.  
+- Se ajustaron los README correspondientes para reflejar la nueva organización.  
+
+### Eliminado
+- Se removió la estructura anterior basada en carpetas personales por estudiante.  
+
+
+
 ### Completo
 - Proyecto finalizado con la integración de **Programación I y II**, evidencias de uso de IA, documentación colaborativa y control de versiones mediante Git/GitHub.  
 - Organización cerrada del repositorio siguiendo metodología **Scrum**.  
